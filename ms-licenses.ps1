@@ -1,3 +1,5 @@
+# App by Jonathan Cauthorn
+# Created 2017-03-12
 # App based on: https://technet.microsoft.com/en-us/library/dn975125.aspx
 # msonline v2: https://docs.microsoft.com/en-us/powershell/azuread/v2/azureactivedirectory
 # download: https://github.com/Azure/azure-docs-powershell-azuread/blob/master/Azure%20AD%20Cmdlets/AzureAD/index.md
